@@ -25,3 +25,5 @@ __pycache__
 
 # Doc
 doc/build
+/scripts/lightning_logs/
+/scripts/test.jpg
